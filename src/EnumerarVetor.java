@@ -12,6 +12,7 @@ public class EnumerarVetor {
     v.add("Three");
     v.add("Four");
     v.add("Five");
+    v.add("Six");
    
     Enumeration e = v.elements();
      
